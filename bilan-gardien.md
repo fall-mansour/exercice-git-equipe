@@ -1,0 +1,3 @@
+- J'ai appris à gérer les conflits de fusion.
+- J'ai appris l'importance des branches pour le travail en équipe.
+- J'ai appris à utiliser les tags pour marquer des versions.
